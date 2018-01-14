@@ -1,0 +1,26 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmop/header-parser.git"
+  },
+  "author": "dmop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmop/header-parser/issues"
+  },
+  "homepage": "https://github.com/dmop/header-parser#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.14.11"
+  }
+}
